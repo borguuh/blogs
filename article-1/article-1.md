@@ -1,4 +1,4 @@
-# Article Title
+# Using Module Aliasing To Simplify import Statements With jsconfig.json
 
 Is your code DRY or WET? I'm not talking about water in this case. Well, DRY here means Don't Repeat Yourself and WET means Write Everything Twice. You surely don't want to be from those who do the latter. I mean, why write it multiple times when you can write it once?
 
@@ -130,8 +130,8 @@ So easy
 
 ## Learn by doing.
 
-To practice a little of what was said in this article, you can try changing the import statements below. The project's root folder has a "src" folder which contains the folders housing the files included in the import. You can view the solution in the github link below.
-[here](https://github.com/borguuh/)
+To practice a little of what was said in this article, you can try changing the import statements below. The project's root folder has a "src" folder which contains the folders housing the files included in the import. You can view the solution in the github link
+[here](https://github.com/borguuh/blogs/blob/main/article-1/article-1-solution.md).
 
 ```
 import React from "react";
