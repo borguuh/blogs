@@ -30,7 +30,7 @@ import axios from 'axios'
 
 You might be wondering, why do you have to repeatedly type out the same boring codes so many times? Well, you should. But the goodnews is, you don't have to go through all these, because the jsconfig.json file has got your back.
 
-[image] hug image or icon for GOTCHA!
+<img src="https://raw.githubusercontent.com/b4b4r07/screenshots/master/gotcha/logo.png" alt="gotcha"></a> 
  
 ## jsconfig.json
 
