@@ -100,8 +100,8 @@ Node.js projects don't support module path aliases by default, which means that 
  "@deep": "src/some/very/deep/folder",
  "@my_module" : "lib/some-file.js",
  "@pages": "src/components/pages",
-	"@layouts": "src/components/layouts",
-	"@config": "config",
+ "@layouts": "src/components/layouts",
+ "@config": "config",
 }
 ```
 3. Finally, add this line at the top of the main file (entry point) of your app e.g the `index.js` in react for example.
